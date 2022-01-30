@@ -1,0 +1,2 @@
+# tablo
+ilk kodlarım
